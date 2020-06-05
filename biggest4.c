@@ -1,5 +1,4 @@
-#include(stdio.h)
-#include(conio.h)
+#include<stdio.h>
 int main( )
 {
 int a, b, c, d;
